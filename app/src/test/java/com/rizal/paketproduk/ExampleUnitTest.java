@@ -1,4 +1,4 @@
-package com.rizal.rekomendasipaketproduk;
+package com.rizal.paketproduk;
 
 import org.junit.Test;
 
